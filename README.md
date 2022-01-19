@@ -1,5 +1,6 @@
 # Hi, I'm Prashish 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prashishb.prashishb)
 
 ## A Software Developer passionate to learn and build solutions to people's problems.
 
