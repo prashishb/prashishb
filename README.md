@@ -25,8 +25,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashishb&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prashishb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashishb&show_icons=true&locale=en&theme=dracula" alt="prashishb" /></p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashishb&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Prashish's Github Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashishb&layout=compact&theme=dracula&hide_border=true" /> |
+| ------------- | ------------- |
 
 <h2> Programming Humor <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
