@@ -5,8 +5,11 @@
 ## A Software Developer passionate to learn and build solutions to people's problems.
 
 - 🔭 I’m currently working on a project that displays realtime options flow
+
 - 🌱 I’m currently learning Data Structures and Algorithms
+
 - 💬 Ask me about React or Redux
+
 - 📫 How to reach me: prashishb@gmail.com
 
 <h3 align="left">Connect with me:</h3>
