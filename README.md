@@ -1,6 +1,9 @@
 # Hi, I'm Prashish Bhandari 👋
 
-## A Software Developer passionate to learn and build solutions to people's problems.
+![Black Technology LinkedIn Banner (1)](https://user-images.githubusercontent.com/89494812/155049010-b4a9fceb-7a60-45df-bbba-5e29f1e2a57e.png)
+
+<h2>About Me</h2>
+A Software Developer passionate to learn and build solutions to people's problems.
 
 - 🔭 I’m currently working on a project that displays realtime options flow
 
@@ -10,7 +13,7 @@
 
 - 📫 How to reach me: prashishb@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/prashishb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashishb/" height="30" width="40" /></a>
 </p>
