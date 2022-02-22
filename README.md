@@ -1,4 +1,4 @@
-# Hi, I'm Prashish 👋
+# Hi, I'm Prashish Bhandari 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashishb.prashishb)
 
