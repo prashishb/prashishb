@@ -1,7 +1,5 @@
 # Hi, I'm Prashish Bhandari 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prashishb.prashishb)
-
 ## A Software Developer passionate to learn and build solutions to people's problems.
 
 - 🔭 I’m currently working on a project that displays realtime options flow
@@ -41,4 +39,6 @@
 <h2> Programming Humor <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prashishb.prashishb)
  
