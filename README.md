@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 
-- 💬 Ask me about React or Redux
+- 💬 Ask me about React, Redux
 
 - 📫 How to reach me: prashishb@gmail.com
 
