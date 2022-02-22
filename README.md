@@ -4,8 +4,15 @@
 
 ## A Software Developer passionate to learn and build solutions to people's problems.
 
+- 🔭 I’m currently working on a project that displays realtime options flow
 - 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about React or Redux
 - 📫 How to reach me: prashishb@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashishb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashishb/" height="30" width="40" /></a>
+</p>
 
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
